@@ -2,6 +2,7 @@
 ---
 
 # React Task Manager
+(Created by Fabricio Braga, last update Feb 19th 2025)
 
 A simple task management application built with React, Redux, and modern React Hooks (`useState`, `useEffect`). This project is designed to help students learn core React concepts, state management with Redux, and event handling.
 
